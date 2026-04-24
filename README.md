@@ -4,14 +4,6 @@ A personal hands-on networking lab for building practical skills in network fund
 
 ---
 
-## 👤 About
-
-**Author:** Paakow Amponsah-Bediako
-**LinkedIn:** [linkedin.com/in/p29kow](https://www.linkedin.com/in/p29kow)
-**Goal:** Strengthen networking fundamentals for IT audit, cybersecurity, and infrastructure roles.
-
----
-
 ## 🗂️ Repository Structure
 
 ```
