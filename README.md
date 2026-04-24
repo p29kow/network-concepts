@@ -152,7 +152,7 @@ cd 01-fundamentals/osi-model
 
 | Date | Activity |
 |------|----------|
-| April 2026 | Repository created, OSI Model and fundamentals started |
+| 24th April, 2026 | Repository created, OSI Model and fundamentals started |
 
 ---
 
