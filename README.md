@@ -10,8 +10,8 @@ A personal hands-on networking lab for building practical skills in network fund
 network-concepts/
 │
 ├── 01-fundamentals/
-│   ├── osi-model.md
-│   ├── tcpip-model.md
+│   ├── osi-model/
+│   ├── tcpip-model/
 │   ├── ip-addressing/
 │   └── subnetting/
 │
