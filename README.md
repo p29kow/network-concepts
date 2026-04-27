@@ -7,11 +7,11 @@ A personal hands-on networking lab for building practical skills in network fund
 ## 🗂️ Repository Structure
 
 ```
-networking-lab/
+network-concepts/
 │
 ├── 01-fundamentals/
-│   ├── osi-model/
-│   ├── tcpip-model/
+│   ├── osi-model.md
+│   ├── tcpip-model.md
 │   ├── ip-addressing/
 │   └── subnetting/
 │
